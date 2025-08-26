@@ -1,0 +1,23 @@
+[
+  
+  
+  {
+    "id": 1,
+    "name": "Electric Bill"
+  },
+  {
+    "id": 2,
+    "name": "Water Bill"
+  },
+  {
+    "id": 3,
+    "name": "Internet Bill"
+  },
+
+  {
+    "id": 0,
+    "name": "All Bills"
+  }
+  
+  
+]

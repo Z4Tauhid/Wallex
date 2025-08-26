@@ -1,0 +1,70 @@
+[
+  
+  {
+    "Billid": 1,
+    "name": "Electric Bill",
+    "amount": 10000,
+    "Uid": 1
+  },
+  {
+    "Billid": 1,
+    "name": "Electric Bill",
+    "amount": 500,
+    "Uid": 2
+  },
+  {
+    "Billid": 1,
+    "name": "Electric Bill",
+    "amount": 500,
+    "Uid": 3
+  },
+  {
+    "Billid": 2,
+    "name": "Water Bill",
+    "amount": 500,
+    "Uid": 4
+  },
+  {
+    "Billid": 2,
+    "name": "Water Bill",
+    "amount": 500,
+    "Uid": 5
+  },
+  {
+    "Billid": 2,
+    "name": "Water Bill",
+    "amount": 500,
+    "Uid": 6
+  },
+  {
+    "Billid": 2,
+    "name": "Water Bill",
+    "amount": 500,
+    "Uid": 7
+  },
+ 
+  {
+    "Billid": 3,
+    "name": "Internet Bill",
+    "amount": 500,
+    "Uid": 8
+  },
+ 
+  {
+    "Billid": 3,
+    "name": "Internet Bill",
+    "amount": 500,
+    "Uid": 9
+  },
+ 
+  {
+    "Billid": 3,
+    "name": "Internet Bill",
+    "amount": 500,
+    "Uid": 10
+  }
+ 
+ 
+  
+  
+]
