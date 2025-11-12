@@ -29,3 +29,8 @@ git clone https://github.com/your-username/wallex.git
 cd wallex
 npm install
 npm start
+
+👨‍💻 Author
+
+Your Name
+www.linkedin.com/in/z4mdtauhid 
